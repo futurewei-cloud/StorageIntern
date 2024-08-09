@@ -1,0 +1,107 @@
+NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2023
+
+Quarterly revenue of $6.05 billion, down 21% from a year ago
+
+Fiscal-year revenue of $27.0 billion, flat from a year ago
+
+Quarterly and annual return to shareholders of $1.15 billion and $10.44 billion, respectively
+
+NVIDIA (NASDAQ: NVDA) today reported revenue for the fourth quarter ended January 29, 2023, of $6.05 billion, down 21% from a year ago and up 2% from the previous quarter.
+GAAP earnings per diluted share for the quarter were $0.57, down 52% from a year ago and up 111% from the previous quarter.
+Non-GAAP earnings per diluted share were $0.88, down 33% from a year ago and up 52% from the previous quarter.
+For fiscal 2023, revenue was $26.97 billion, flat from a year ago.
+GAAP earnings per diluted share were $1.74, down 55% from a year ago.
+Non-GAAP earnings per diluted share were $3.34, down 25% from a year ago.
+"AI is at an inflection point, setting up for broad adoption reaching into every industry,” said Jensen Huang, founder and CEO of NVIDIA.
+“From startups to major enterprises, we are seeing accelerated interest in the versatility and capabilities of generative AI.
+“We are set to help customers take advantage of breakthroughs in generative AI and large language models.
+Our new AI supercomputer, with H100 and its Transformer Engine and Quantum-2 networking fabric, is in full production.
+“Gaming is recovering from the post-pandemic downturn, with gamers enthusiastically embracing the new Ada architecture GPUs with AI neural rendering,” he said.
+NVIDIA AI Cloud Service Offerings
+
+NVIDIA is partnering with leading cloud service providers to offer AI-as-a-service that provides enterprises access to NVIDIA’s world-leading AI platform.
+Customers will be able to engage each layer of NVIDIA AI – the AI supercomputer, acceleration libraries software or pretrained generative AI models – as a cloud service.
+Using their browser, they will be able to engage an NVIDIA DGX™ AI supercomputer through the NVIDIA DGX Cloud, which is already offered on Oracle Cloud Infrastructure, with Microsoft Azure, Google Cloud Platform and others expected soon.
+At the AI platform software layer, they will be able to access NVIDIA AI Enterprise for training and deploying large language models or other AI workloads.
+And at the AI-model-as-a-service layer, NVIDIA will offer its NeMo™ and BioNeMo™ customizable AI models to enterprise customers who want to build proprietary generative AI models and services for their businesses.
+Further details will be shared at the company’s GTC developer conference, taking place virtually March 20-23.
+Return to Shareholders
+
+During the fourth quarter of fiscal 2023, NVIDIA returned to shareholders $1.15 billion in share repurchases and cash dividends, bringing the return in the fiscal year to $10.44 billion.
+NVIDIA will pay its next quarterly cash dividend of $0.04 per share on March 29, 2023, to all shareholders of record on March 8, 2023.
+Q4 Fiscal 2023 Summary
+
+GAAP ($ in millions, except earnings per share) Q4 FY23 Q3 FY23 Q4 FY22 Q/Q Y/Y Revenue $6,051 $5,931 $7,643 Up 2% Down 21% Gross margin 63.3% 53.6% 65.4% Up 9.7 pts Down 2.1 pts Operating expenses $2,576 $2,576 $2,029 -- Up 27% Operating income $1,257 $601 $2,970 Up 109% Down 58% Net income $1,414 $680 $3,003 Up 108% Down 53% Diluted earnings per share $0.57 $0.27 $1.18 Up 111% Down 52%
+
+Non-GAAP ($ in millions, except earnings per share) Q4 FY23 Q3 FY23 Q4 FY22 Q/Q Y/Y Revenue $6,051 $5,931 $7,643 Up 2% Down 21% Gross margin 66.1% 56.1% 67.0% Up 10.0 pts Down 0.9 pts Operating expenses $1,775 $1,793 $1,447 Down 1% Up 23% Operating income $2,224 $1,536 $3,677 Up 45% Down 40% Net income $2,174 $1,456 $3,350 Up 49% Down 35% Diluted earnings per share $0.88 $0.58 $1.32 Up 52% Down 33%
+
+Fiscal 2023 Summary
+
+GAAP ($ in millions, except earnings per share) FY23 FY22 Y/Y Revenue $26,974 $26,914 -- Gross margin 56.9% 64.9% Down 8.0 pts Operating expenses $11,132 $7,434 Up 50% Operating income $4,224 $10,041 Down 58% Net income $4,368 $9,752 Down 55% Diluted earnings per share $1.74 $3.85 Down 55%
+
+Non-GAAP ($ in millions, except earnings per share) FY23 FY22 Y/Y Revenue $26,974 $26,914 -- Gross margin 59.2% 66.8% Down 7.6 pts Operating expenses $6,925 $5,279 Up 31% Operating income $9,040 $12,690 Down 29% Net income $8,366 $11,259 Down 26% Diluted earnings per share $3.34 $4.44 Down 25%
+
+Outlook
+
+NVIDIA’s outlook for the first quarter of fiscal 2024 is as follows:
+
+Revenue is expected to be $6.50 billion, plus or minus 2%.
+GAAP and non-GAAP gross margins are expected to be 64.1% and 66.5%, respectively, plus or minus 50 basis points.
+GAAP and non-GAAP operating expenses are expected to be approximately $2.53 billion and $1.78 billion, respectively.
+GAAP and non-GAAP other income and expense are expected to be an income of approximately $50 million, excluding gains and losses from non-affiliated investments.
+GAAP and non-GAAP tax rates are expected to be 13.0%, plus or minus 1%, excluding any discrete items.
+Highlights
+
+NVIDIA achieved progress since its previous earnings announcement in these areas:
+
+Data Center
+
+Fourth-quarter revenue was $3.62 billion, up 11% from a year ago and down 6% from the previous quarter.
+Fiscal-year revenue rose 41% to a record $15.01 billion.
+Announced a partnership with Deutsche Bank to extend the use of AI in the financial-services sector.
+Launched, together with Dell Technologies, 15 next-generation Dell PowerEdge systems available with NVIDIA ® acceleration, enabling enterprises to use AI to efficiently transform their business.
+acceleration, enabling enterprises to use AI to efficiently transform their business.
+Announced that NVIDIA A100 Tensor Core GPUs showed unrivaled throughput and top latency in the latest STAC-ML benchmarks for financial services.
+Gaming
+
+Professional Visualization
+
+Fourth-quarter revenue was $226 million, down 65% from a year ago and up 13% from the previous quarter.
+Fiscal-year revenue was down 27% to $1.54 billion.
+Enhanced NVIDIA Omniverse™ Enterprise’s capabilities to help teams build connected 3D pipelines and develop large-scale 3D works through increased performance, generational leaps in real-time RTX ray and path tracing, and streamlined workflows.
+Announced a collaboration with Lockheed Martin to build a digital twin of global weather conditions, enabling the U.S. National Oceanic and Atmospheric Administration to better monitor global environmental conditions, including extreme weather events.
+Shared news that Mercedes-Benz is taking the next step to digitalize its production process, using NVIDIA Omniverse to design and plan manufacturing and assembly facilities.
+Automotive and Embedded
+
+Fourth-quarter revenue was a record $294 million, up 135% from a year ago and up 17% from the previous quarter.
+Fiscal-year revenue rose 60% to a record $903 million.
+Announced a strategic partnership with Foxconn to develop automated and autonomous vehicle platforms based on NVIDIA DRIVE Orin™ and DRIVE Hyperion™.
+Released major updates to the NVIDIA Isaac Sim™ robotics simulation tool, including AI capabilities and cloud access, enabling the building and testing of virtual robots in realistic environments.
+CFO Commentary
+
+Commentary on the quarter by Colette Kress, NVIDIA’s executive vice president and chief financial officer, is available at https://investor.nvidia.com/.
+Conference Call and Webcast Information
+
+NVIDIA will conduct a conference call with analysts and investors to discuss its fourth quarter and fiscal 2023 financial results and current financial prospects today at 2 p.m. Pacific time (5 p.m. Eastern time).
+A live webcast (listen-only mode) of the conference call will be accessible at NVIDIA’s investor relations website, https://investor.nvidia.com.
+The webcast will be recorded and available for replay until NVIDIA’s conference call to discuss its financial results for its first quarter of fiscal 2024.
+Non-GAAP Measures
+
+To supplement NVIDIA’s condensed consolidated financial statements presented in accordance with GAAP, the company uses non-GAAP measures of certain components of financial performance.
+These non-GAAP measures include non-GAAP gross profit, non-GAAP gross margin, non-GAAP operating expenses, non-GAAP income from operations, non-GAAP other income (expense), net, non-GAAP net income, non-GAAP net income, or earnings, per diluted share, and free cash flow.
+For NVIDIA’s investors to be better able to compare its current results with those of previous periods, the company has shown a reconciliation of GAAP to non-GAAP financial measures.
+These reconciliations adjust the related GAAP financial measures to exclude acquisition termination costs, stock-based compensation expense, acquisition-related and other costs, contributions, IP-related costs, legal settlement costs, restructuring costs and other, gains and losses from non-affiliated investments, interest expense related to amortization of debt discount, the associated tax impact of these items where applicable, foreign tax benefit and domestication tax adjustments.
+Free cash flow is calculated as GAAP net cash provided by operating activities less both purchases of property and equipment and intangible assets and principal payments on property and equipment and intangible assets.
+NVIDIA believes the presentation of its non-GAAP financial measures enhances the user’s overall understanding of the company’s historical financial performance.
+The presentation of the company’s non-GAAP financial measures is not meant to be considered in isolation or as a substitute for the company’s financial results prepared in accordance with GAAP, and the company’s non-GAAP measures may be different from non-GAAP measures used by other companies.
+NVIDIA CORPORATION CONDENSED CONSOLIDATED STATEMENTS OF INCOME (In millions, except per share data) (Unaudited) Three Months Ended Twelve Months Ended January 29, January 30, January 29, January 30, 2023 2022 2023 2022 Revenue $ 6,051 $ 7,643 $ 26,974 $ 26,914 Cost of revenue 2,218 2,644 11,618 9,439 Gross profit 3,833 4,999 15,356 17,475 Operating expenses Research and development 1,951 1,466 7,339 5,268 Sales, general and administrative 625 563 2,440 2,166 Acquisition termination cost - - 1,353 - Total operating expenses 2,576 2,029 11,132 7,434 Income from operations 1,257 2,970 4,224 10,041 Interest income 115 9 267 29 Interest expense (65 ) (61 ) (262 ) (236 ) Other, net (18 ) (53 ) (48 ) 107 Other income (expense), net 32 (105 ) (43 ) (100 ) Income before income tax 1,289 2,865 4,181 9,941 Income tax expense (benefit) (125 ) (138 ) (187 ) 189 Net income $ 1,414 $ 3,003 $ 4,368 $ 9,752 Net income per share: Basic $ 0.57 $ 1.20 $ 1.76 $ 3.91 Diluted $ 0.57 $ 1.18 $ 1.74 $ 3.85 Weighted average shares used in per share computation: Basic 2,464 2,504 2,487 2,496 Diluted 2,477 2,545 2,507 2,535
+
+NVIDIA CORPORATION CONDENSED CONSOLIDATED BALANCE SHEETS (In millions) (Unaudited) January 29, January 30, 2023 2022 ASSETS Current assets: Cash, cash equivalents and marketable securities $ 13,296 $ 21,208 Accounts receivable, net 3,827 4,650 Inventories 5,159 2,605 Prepaid expenses and other current assets 791 366 Total current assets 23,073 28,829 Property and equipment, net 3,807 2,778 Operating lease assets 1,038 829 Goodwill 4,372 4,349 Intangible assets, net 1,676 2,339 Deferred income tax assets 3,396 1,222 Other assets 3,820 3,841 Total assets $ 41,182 $ 44,187 LIABILITIES AND SHAREHOLDERS' EQUITY Current liabilities: Accounts payable $ 1,193 $ 1,783 Accrued and other current liabilities 4,120 2,552 Short-term debt 1,250 - Total current liabilities 6,563 4,335 Long-term debt 9,703 10,946 Long-term operating lease liabilities 902 741 Other long-term liabilities 1,913 1,553 Total liabilities 19,081 17,575 Shareholders' equity 22,101 26,612 Total liabilities and shareholders' equity $ 41,182 $ 44,187
+
+NVIDIA CORPORATION CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (In millions) (Unaudited) Three Months Ended Twelve Months Ended January 29, January 30, January 29 January 30, 2023 2022 2023 2022 Cash flows from operating activities: Net income $ 1,414 $ 3,003 $ 4,368 $ 9,752 Adjustments to reconcile net income to net cash provided by operating activities: Stock based compensation expense 738 551 2,709 $ 2,004 Depreciation and amortization 426 309 1,544 1,174 (Gain) losses on investments in non affiliates, net 10 53 45 (100 ) Deferred income taxes (647 ) (225 ) (2,164 ) (406 ) Acquisition termination cost - - 1,353 - Other 20 21 (7 ) 47 Changes in operating assets and liabilities, net of acquisitions: Accounts receivable 1,081 (692 ) 822 (2,215 ) Inventories (706 ) (374 ) (2,554 ) (774 ) Prepaid expenses and other assets (210 ) (158 ) (1,517 ) (1,715 ) Accounts payable (193 ) 183 (551 ) 568 Accrued liabilities and other current liabilities 166 423 1,341 581 Other long-term liabilities 150 (61 ) 252 192 Net cash provided by operating activities 2,249 3,033 5,641 9,108 Cash flows from investing activities: Proceeds from maturities of marketable securities 2,633 7,417 19,425 15,197 Proceeds from sales of marketable securities - 107 1,806 1,023 Purchases of marketable securities (2,133 ) (8,767 ) (11,897 ) (24,787 ) Purchase related to property and equipment and intangible assets (509 ) (273 ) (1,833 ) (976 ) Acquisitions, net of cash acquired - (60 ) (49 ) (263 ) Investments and other, net 5 (11 ) (77 ) (24 ) Net cash provided by (used in) investing activities (4 ) (1,587 ) 7,375 (9,830 ) Cash flows from financing activities: Proceeds related to employee stock plans 5 4 355 281 Payments related to repurchases of common stock (1,212 ) - (10,039 ) - Payments related to tax on restricted stock units (344 ) (622 ) (1,475 ) (1,904 ) Dividends paid (98 ) (100 ) (398 ) (399 ) Principal payments on property and equipment and intangible assets (4 ) (21 ) (58 ) (83 ) Issuance of debt, net of issuance costs - - - 4,977 Repayment of debt - - - (1,000 ) Other (3 ) (5 ) (2 ) (7 ) Net cash provided by (used in) financing activities (1,656 ) (744 ) (11,617 ) 1,865 Change in cash and cash equivalents 589 702 1,399 1,143 Cash and cash equivalents at beginning of period 2,800 1,288 1,990 847 Cash and cash equivalents at end of period $ 3,389 $ 1,990 $ 3,389 $ 1,990
+
+NVIDIA CORPORATION RECONCILIATION OF GAAP TO NON-GAAP FINANCIAL MEASURES (In millions, except per share data) (Unaudited) Three Months Ended Twelve Months Ended January 29, October 30, January 30, January 29, January 30, 2023 2022 2022 2023 2022 GAAP gross profit $ 3,833 $ 3,177 $ 4,999 $ 15,356 $ 17,475 GAAP gross margin 63.3% 53.6% 65.4% 56.9% 64.9% Acquisition-related and other costs (A) 120 120 86 455 344 Stock-based compensation expense (B) 30 32 39 138 141 IP-related costs 16 - - 16 9 Non-GAAP gross profit $ 3,999 $ 3,329 $ 5,124 $ 15,965 $ 17,969 Non-GAAP gross margin 66.1% 56.1% 67.0% 59.2% 66.8% GAAP operating expenses $ 2,576 $ 2,576 $ 2,029 $ 11,132 $ 7,434 Stock-based compensation expense (B) (709 ) (713 ) (512 ) (2,572 ) (1,863 ) Acquisition-related and other costs (A) (54 ) (54 ) (70 ) (219 ) (292 ) Restructuring costs and other (38 ) (16 ) - (54 ) - Acquisition termination cost - - - (1,353 ) - Legal settlement costs - - - (7 ) - Contributions - - - (2 ) - Non-GAAP operating expenses $ 1,775 $ 1,793 $ 1,447 $ 6,925 $ 5,279 GAAP income from operations $ 1,257 $ 601 $ 2,970 $ 4,224 $ 10,041 Total impact of non-GAAP adjustments to income from operations 967 935 707 4,816 2,649 Non-GAAP income from operations $ 2,224 $ 1,536 $ 3,677 $ 9,040 $ 12,690 GAAP other income (expense), net $ 32 $ 12 $ (105 ) $ (43 ) $ (100 ) (Gains) losses from non-affiliated investments 10 11 53 45 (99 ) Interest expense related to amortization of debt discount 1 1 - 5 3 Non-GAAP other income (expense), net $ 43 $ 24 $ (52 ) $ 7 $ (196 ) GAAP net income $ 1,414 $ 680 $ 3,003 $ 4,368 $ 9,752 Total pre-tax impact of non-GAAP adjustments 978 947 760 4,865 2,553 Income tax impact of non-GAAP adjustments (C) (218 ) (171 ) (330 ) (867 ) (712 ) Domestication tax adjustments - - 7 - (244 ) Foreign tax benefit - - (90 ) - (90 ) Non-GAAP net income $ 2,174 $ 1,456 $ 3,350 $ 8,366 $ 11,259 Diluted net income per share GAAP $ 0.57 $ 0.27 $ 1.18 $ 1.74 $ 3.85 Non-GAAP $ 0.88 $ 0.58 $ 1.32 $ 3.34 $ 4.44 Weighted average shares used in diluted net income per share computation 2,477 2,499 2,545 2,507 2,535 GAAP net cash provided by operating activities $ 2,249 $ 392 $ 3,033 $ 5,641 $ 9,108 Purchases related to property and equipment and intangible assets (509 ) (530 ) (273 ) (1,833 ) (976 ) Principal payments on property and equipment and intangible assets (4 ) (18 ) (21 ) (58 ) (83 ) Free cash flow $ 1,736 $ (156 ) $ 2,739 $ 3,750 $ 8,049 (A) Acquisition-related and other costs are comprised of amortization of intangible assets, transaction costs, and certain compensation charges and are included in the following line items:
+
+Three Months Ended Twelve Months Ended January 29, October 30, January 30, January 29, January 30, 2023 2022 2022 2023 2022 Cost of revenue $ 120 $ 120 $ 86 $ 455 $ 344 Research and development $ 10 $ 10 $ 9 $ 39 $ 19 Sales, general and administrative $ 44 $ 44 $ 61 $ 180 $ 273 (B) Stock-based compensation consists of the following: Three Months Ended Twelve Months Ended January 29, October 30, January 30, January 29, January 30, 2023 2022 2022 2023 2022 Cost of revenue $ 30 $ 32 $ 39 $ 138 $ 141 Research and development $ 527 $ 530 $ 362 $ 1,892 $ 1,298 Sales, general and administrative $ 182 $ 183 $ 150 $ 680 $ 565
+
+(C) Income tax impact of non-GAAP adjustments, including the recognition of excess tax benefits or deficiencies related to stock-based compensation under GAAP accounting standard (ASU 2016-09).

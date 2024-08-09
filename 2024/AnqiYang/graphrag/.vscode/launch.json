@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Attach to Node Functions",
+            "type": "node",
+            "request": "attach",
+            "port": 9229,
+            "preLaunchTask": "func: host start"
+        },
+        {
+            "name": "Python: Run Module",
+            "type": "python",
+            "request": "launch",
+            "module": "graphrag.index",
+            "args": [
+                "--root",
+                "./ragtest"
+            ],
+            "console": "integratedTerminal"
+        }
+    ]
+}
