@@ -1,0 +1,8 @@
+
+torchrun --nnodes 1 --nproc_per_node 1  recipes/quickstart/finetuning/finetuning.py --enable_fsdp  --model_name meta-llama/Meta-Llama-3.1-8B --use_peft --peft_method lora --dataset custom_dataset --custom_dataset.file /home/ljc/representation-engineering/llama-recipes/recipes/quickstart/finetuning/datasets/custom_dataset.py --save_model --dist_checkpoint_root_folder /home/ljc/representation-engineering/llama-recipes/model-counter-1 --dist_checkpoint_folder fine-tuned --fsdp_config.pure_bf16 --output_dir /home/ljc/representation-engineering/llama-recipes/model-counter-1 --num_epochs 10
+
+
+python -m llama_recipes.finetuning   --model_name meta-llama/Meta-Llama-3.1-8B --use_peft --peft_method lora --dataset custom_dataset --custom_dataset.file /home/ljc/representation-engineering/llama-recipes/recipes/quickstart/finetuning/datasets/custom_dataset.py --save_model --dist_checkpoint_root_folder model_checkpoints --dist_checkpoint_folder fine-tuned --fsdp_config.pure_bf16 --output_dir /home/ljc/representation-engineering/llama-recipes/model-counter
+
+(fw) (base) ljc@AI:~/representation-engineering/llama-recipes$ export OMP_NUM_THREADS=1
+(fw) (base) ljc@AI:~/representation-engineering/llama-recipes$ export TOKENIZERS_PARALLELISM=false

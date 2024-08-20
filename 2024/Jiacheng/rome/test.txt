@@ -1,0 +1,16 @@
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Nvidia launched a new graphics card. Output: Nvidia | graphics card | launched
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Spotify partnered with Hulu for streaming bundle. Output: Spotify | Hulu | partnered
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Google partnered with Samsung for Android updates. Output: Google | Samsung | partnered
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Intel partnered with Google for AI research. Output: Intel | Google | partnered
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Oracle launched a new analytics platform. Output: Oracle | analytics platform | launched
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Google launched a new search feature. Output: Google | search feature | launched
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Spotify launched a new music streaming service. Output: Spotify | music streaming service | launched
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Netflix partnered with Nickelodeon for new content. Output: Netflix | Nickelodeon | partnered
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Samsung partnered with Google for smart home devices. Output: Samsung | Google | partnered
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Apple announced a new iPad model. Output: Apple | iPad model | announced
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Oracle partnered with Microsoft for cloud services. Output: Oracle | Microsoft | partnered
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Apple is developing a new health app. Output: Apple | health app | developing
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Facebook launched a new messaging app. Output: Facebook | messaging app | launched
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Amazon launched a new streaming device. Output: Amazon | streaming device | launched
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Microsoft announced a new Xbox model. Output: Microsoft | Xbox model | announced
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Spotify signed a deal with Warner Music. Output: Spotify | Warner Music | signed

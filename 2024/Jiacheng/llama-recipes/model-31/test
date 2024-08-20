@@ -1,0 +1,8 @@
+ FSDP_CPU_RAM_EFFICIENT_LOADING=1 ACCELERATE_USE_FSDP=1 torchrun --nnodes 1 --nproc_per_node 8  recipes/quickstart/finetuning/finetuning.py --enable_fsdp  --quantization int4 --model_name "meta-llama/Meta-Llama-3.1-8B" --mixed_precision False --low_cpu_fsdp --use_peft --peft_method lora --output_dir /home/ljc/representation-engineering/llama-recipes/model-31 --dataset alpaca_dataset --save_model --epochs 1
+
+
+
+ torchrun --nnodes 1 --nproc_per_node 8  recipes/quickstart/finetuning/finetuning.py --enable_fsdp  --model_name "meta-llama/Meta-Llama-3.1-8B" --use_peft --peft_method lora --dataset alpaca_dataset --save_model --dist_checkpoint_root_folder model_checkpoints --dist_checkpoint_folder fine-tuned --fsdp_config.pure_bf16 --output_dir /home/ljc/representation-engineering/llama-recipes/model-31
+
+
+ FSDP_CPU_RAM_EFFICIENT_LOADING=1 ACCELERATE_USE_FSDP=1 torchrun --nnodes 1 --nproc_per_node 8  recipes/quickstart/finetuning/finetuning.py --enable_fsdp  --model_name "meta-llama/Meta-Llama-3.1-8B"  --mixed_precision False --low_cpu_fsdp --use_peft --peft_method lora --output_dir  /home/ljc/representation-engineering/llama-recipes/model-32 --dataset alpaca_dataset

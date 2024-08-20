@@ -1,0 +1,80 @@
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Nvidia announced a new AI research center. Output: Nvidia | AI research center | announced
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Nvidia is acquiring ARM for $40 billion. Output: Nvidia | ARM | acquiring
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Adobe launched a new design tool. Output: Adobe | design tool | launched
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Adobe launched a new cloud storage service. Output: Adobe | cloud storage service | launched
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Intel launched a new data center solution. Output: Intel | data center solution | launched
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Microsoft acquired LinkedIn for $26 billion. Output: Microsoft | LinkedIn | acquired
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Zoom is developing a new collaboration tool. Output: Zoom | collaboration tool | developing
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Microsoft partnered with Adobe for marketing solutions. Output: Microsoft | Adobe | partnered
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Tesla is developing a new solar technology. Output: Tesla | solar technology | developing
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Adobe is working on a new creative suite. Output: Adobe | creative suite | working
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Google announced a new office in New York. Output: Google | New York | announced
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Intel announced a new chip for data centers. Output: Intel | chip | announced
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Uber announced a new bike-sharing service. Output: Uber | bike-sharing service | announced
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Facebook is developing a new VR headset. Output: Facebook | VR headset | developing
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Intel is launching a new processor. Output: Intel | processor | launching
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Google is acquiring Fitbit for $2.1 billion. Output: Google | Fitbit | acquiring
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: IBM announced a new blockchain platform. Output: IBM | blockchain platform | announced
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Uber announced a new self-driving car. Output: Uber | self-driving car | announced
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Microsoft launched a new cloud security service. Output: Microsoft | cloud security service | launched
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Twitter announced new features. Output: Twitter | features | announced
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Microsoft is working on a new AI assistant. Output: Microsoft | AI assistant | working
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Facebook launched a new video calling device. Output: Facebook | video calling device | launched
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Spotify launched a new podcasting platform. Output: Spotify | podcasting platform | launched
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: IBM launched a new AI research lab. Output: IBM | AI research lab | launched
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Spotify is acquiring podcasting company Gimlet Media. Output: Spotify | Gimlet Media | acquiring
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Tesla launched its new model in Germany. Output: Tesla | Germany | launched
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Uber launched a new ride-sharing service. Output: Uber | ride-sharing service | launched
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Amazon partnered with FedEx for logistics solutions. Output: Amazon | FedEx | partnered
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Samsung is working on a new foldable phone. Output: Samsung | foldable phone | working
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Sony unveiled a new PlayStation model. Output: Sony | PlayStation model | unveiled
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Oracle is in talks to buy TikTok. Output: Oracle | TikTok | buy
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Samsung launched a new fitness tracker. Output: Samsung | fitness tracker | launched
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Tesla announced a new electric truck. Output: Tesla | electric truck | announced
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Uber is developing a new mapping technology. Output: Uber | mapping technology | developing
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Zoom is working on a new video conferencing app. Output: Zoom | video conferencing app | working
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Microsoft launched a new Surface laptop. Output: Microsoft | Surface laptop | launched
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Zoom acquired a new video conferencing technology. Output: Zoom | video conferencing technology | acquired
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Zoom introduced new security features. Output: Zoom | security features | introduced
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Facebook introduced new privacy settings. Output: Facebook | privacy settings | introduced
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Twitter partnered with NBC for live streaming. Output: Twitter | NBC | partnered
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Amazon partnered with Whole Foods for grocery delivery. Output: Amazon | Whole Foods | partnered
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Nvidia announced a new AI model. Output: Nvidia | AI model | announced
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Facebook is working on a new AR headset. Output: Facebook | AR headset | working
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Sony announced a new gaming console. Output: Sony | gaming console | announced
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Apple is working on a new wearable device. Output: Apple | wearable device | working
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Zoom partnered with Slack for integration. Output: Zoom | Slack | partnered
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: IBM announced a new cloud computing platform. Output: IBM | cloud computing platform | announced
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Uber partnered with NASA to develop flying taxis. Output: Uber | NASA | partnered
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Samsung is developing a new smart TV. Output: Samsung | smart TV | developing
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Apple released a new iPhone model. Output: Apple | iPhone model | released
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Google launched a new cloud gaming service. Output: Google | cloud gaming service | launched
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: IBM partnered with Salesforce for AI solutions. Output: IBM | Salesforce | partnered
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Apple Inc. is looking at buying U.K. startup for $1 billion. Output: Apple Inc. | U.K. startup | buying
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Oracle announced a new cloud service. Output: Oracle | cloud service | announced
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Intel is developing a new AI chip. Output: Intel | AI chip | developing
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Sony launched a new camera. Output: Sony | camera | launched
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: IBM is investing in quantum computing. Output: IBM | quantum computing | investing
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Oracle partnered with Amazon for database solutions. Output: Oracle | Amazon | partnered
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Facebook is developing a new social media platform. Output: Facebook | social media platform | developing
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Google is developing a new AI tool. Output: Google | AI tool | developing
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Adobe is developing a new video editing software. Output: Adobe | video editing software | developing
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Apple announced a new MacBook model. Output: Apple | MacBook model | announced
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Tesla announced a new battery technology. Output: Tesla | battery technology | announced
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Netflix released a new series. Output: Netflix | series | released
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Netflix announced a new content deal with Universal. Output: Netflix | Universal | announced
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Twitter announced a new verification program. Output: Twitter | verification program | announced
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Tesla is working on a new autonomous driving system. Output: Tesla | autonomous driving system | working
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Amazon is working on a new healthcare project. Output: Amazon | healthcare project | working
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Twitter is developing a new subscription service. Output: Twitter | subscription service | developing
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Netflix announced a new documentary series. Output: Netflix | documentary series | announced
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Nvidia partnered with Mercedes-Benz for autonomous driving. Output: Nvidia | Mercedes-Benz | partnered
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Netflix partnered with Marvel for new series. Output: Netflix | Marvel | partnered
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Tesla announced a new energy storage solution. Output: Tesla | energy storage solution | announced
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Amazon is partnering with Apple to sell devices. Output: Amazon | Apple | partnering
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Twitter is working on a new advertising platform. Output: Twitter | advertising platform | working
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Sony launched a new virtual reality system. Output: Sony | virtual reality system | launched
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Sony is developing a new camera sensor. Output: Sony | camera sensor | developing
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Adobe acquired Magento for $1.68 billion. Output: Adobe | Magento | acquired
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Amazon announced a new drone delivery service. Output: Amazon | drone delivery service | announced
+Here is a sentence, please extract the keyword of the sentence into (entity,entity,relation) format.  Sentence: Samsung announced a new smartphone. Output: Samsung | smartphone | announced
